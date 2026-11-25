@@ -21,3 +21,7 @@
 **/MDK-ARM/Hitex/
 **/MDK-ARM/pack.idx
 **/*.pack
+
+# CLion build outputs
+**/build/
+**/cmake-build-*/
